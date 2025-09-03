@@ -94,13 +94,15 @@ Elena Tarrant, Head of Marketing, leads the development of a personalized reward
 
 ### 📌 Personalized Perk Examples
 
-**Luxury Travelers:** Concierge service, VIP support, private transfers, exclusive events  
-**Business Travelers:** Subscription model, lounge access, expense reporting, priority support  
-**Family Travelers:** Kids stay free, family bundles, child-friendly content, travel insurance  
-**Young Travelers:** Social sharing bonuses, group discounts, event tickets, gamified badges  
-**Spontaneous Adventurers:** Last-minute deals, instant bonuses, mystery trips, flash sales  
-**Budget Travelers:** Discount cards, price alerts, cashback, upgrade surprises  
-**Lost Opportunities:** Reactivation campaigns, personal vouchers, simplified rebooking  
+| Segment | Key Characteristics | Business Value |
+|---------|---------------------|----------------|
+| **Luxury Travelers** | Concierge service, VIP support, private transfers, exclusive events | Highest revenue per customer through premium offerings |
+| **Business Travelers** | Subscription model, lounge access, expense reporting, priority support | High lifetime value and predictable demand |
+| **Family Travelers** | Kids stay free, family bundles, child-friendly content, travel insurance | Strong seasonal demand and group-oriented revenue |
+| **Young Travelers** | Social sharing bonuses, group discounts, event tickets, gamified badges | Future growth potential and strong brand advocacy |
+| **Spontaneous Adventurers** | Last-minute deals, instant bonuses, mystery trips, flash sales | High conversion from urgency-driven offers |
+| **Budget Travelers** | Discount cards, price alerts, cashback, upgrade surprises | Large customer base driven by value sensitivity |
+| **Lost Opportunities** | Reactivation campaigns, personal vouchers, simplified rebooking | Revenue recovery and churn reduction potential |
 
 ## 📕 Technical Implementation
 
