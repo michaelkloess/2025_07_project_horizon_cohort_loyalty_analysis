@@ -1,15 +1,15 @@
 # 📕 Project_Horizon_Cohort_Loyalty_Analysis
 
 **📌 Project Overview**
-This project develops a comprehensive customer segmentation framework for TravelTide, a travel booking platform, to enable personalized marketing strategies and improve customer retention through targeted perk assignment.
+This project develops a comprehensive customer segmentation framework for a travel booking platform, to enable personalized marketing strategies and improve customer retention through targeted perk assignment.
 
 ## 📕 Business Context
 
 ### 📌 Challenge
-TravelTide faces increasing competition in the travel booking market, requiring enhanced customer loyalty and retention strategies. CEO Kevin Talanick has prioritized strengthening customer relationships through personalized experiences.
+The Company faces increasing competition in the travel booking market, requiring enhanced customer loyalty and retention strategies. CEO Kevin T. has prioritized strengthening customer relationships through personalized experiences.
 
 ### 📌 Solution
-Elena Tarrant, Head of Marketing, leads the development of a personalized rewards program that highlights specific benefits each customer values most—such as free cancellation or priority check-in—when inviting them to join the program.
+Elena T., Head of Marketing, leads the development of a personalized rewards program that highlights specific benefits each customer values most—such as free cancellation or priority check-in—when inviting them to join the program.
 
 ### 📌 Objectives
 - Identify distinct customer segments with consistent perk preferences
