@@ -1,4 +1,4 @@
-# 📕 TravelTide_Customer_Reward_Program
+# 📕 Project_Horizon_Cohort_Loyalty_Analysis
 
 **📌 Project Overview**
 This project develops a comprehensive customer segmentation framework for TravelTide, a travel booking platform, to enable personalized marketing strategies and improve customer retention through targeted perk assignment.
