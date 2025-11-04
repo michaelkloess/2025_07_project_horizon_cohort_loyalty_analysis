@@ -1,13 +1,13 @@
 # 📕 Project Structure Documentation
 
 **📌 Overview**
-This document provides a comprehensive overview of the TravelTide customer segmentation project organization, including folder structure, file purposes, and development workflow.
+This document provides a comprehensive overview of the customer segmentation project organization, including folder structure, file purposes, and development workflow.
 
 ## 📕 Directory Structure
 
 ### 📌 Project Root
 ```
-TravelTide/
+Project Horizon/
 ├── README.md                             ← Project overview and goals
 ```
 
