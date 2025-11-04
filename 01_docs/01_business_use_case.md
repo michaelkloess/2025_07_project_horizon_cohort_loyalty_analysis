@@ -1,15 +1,15 @@
-## The TravelTide Company – Customer Rewards Program
+## Project Horizon – Customer Rewards Program
 
 ### 📕 Background
-**TravelTide** is a rapidly growing e-booking startup founded in April 2021, known for its industry-leading search and data aggregation technology. 
-By offering access to the largest travel inventory in the market, TravelTide has quickly become a strong player in the online travel sector.
+**Horizon** is a rapidly growing e-booking startup founded in April 2021, known for its industry-leading search and data aggregation technology. 
+By offering access to the largest travel inventory in the market, Horizon has quickly become a strong player in the online travel sector.
 
 While the platform excels in search functionality, it currently faces challenges in customer retention. 
 The user experience beyond search has received less attention, resulting in lower return rates among existing customers.
 
 ### 📕 Business Focus
-To address this, CEO **Kevin Talanick** has prioritized strengthening customer loyalty. 
-As part of this strategy, **Elena Tarrant** has joined TravelTide as the new **Head of Marketing**. 
+To address this, CEO **Kevin T.** has prioritized strengthening customer loyalty. 
+As part of this strategy, **Elena T.** has joined Horizon as the new **Head of Marketing**. 
 With a proven track record in developing successful retention programs, she brings valuable expertise in creating engaging rewards systems.
 
 ### 📕 Strategic Initiative
@@ -28,7 +28,7 @@ The analytical goals include:
 
 ### 📌 Vision
 This rewards program combines marketing expertise with data insights to deliver a more relevant, customer-focused experience. 
-By aligning incentives with individual needs, TravelTide aims to strengthen loyalty, increase retention, and enhance overall customer satisfaction.
+By aligning incentives with individual needs, Horizon aims to strengthen loyalty, increase retention, and enhance overall customer satisfaction.
 
 ---
 
