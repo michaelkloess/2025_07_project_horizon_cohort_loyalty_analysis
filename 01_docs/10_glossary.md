@@ -20,7 +20,7 @@ This glossary provides complete definitions of all metrics, terms, and concepts 
 | `home_airport` | nominal | User's preferred hometown airport |
 | `home_airport_lat` | decimal | Geographical north-south position of home airport |
 | `home_airport_lon` | decimal | Geographical east-west position of home airport |
-| `sign_up_date` | datetime | Date of TravelTide account creation |
+| `sign_up_date` | datetime | Date of Horizon account creation |
 
 #### **sessions** - Individual browsing sessions (sessions with ≥2 clicks only)
 | Column | Data Type | Description |
