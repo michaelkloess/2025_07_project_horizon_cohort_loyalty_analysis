@@ -1,6 +1,6 @@
 # 📕 Overview
 
-This project uses a ***relational PostgreSQL database*** that forms the analytical foundation for TravelTide’s customer and booking data. </br>
+This project uses a ***relational PostgreSQL database*** that forms the analytical foundation for Horizon’s customer and booking data. </br>
 The schema follows a typical star-like structure consisting of fact and dimension tables, capturing user profiles, session behavior, flight bookings, and hotel stays.
 
 Each table is designed to support both descriptive analytics and personalization logic (e.g., for customer rewards). </br>
@@ -40,7 +40,7 @@ Below you’ll find: </br>
 | `home_airport`     | User’s preferred hometown airport                 | text        |
 | `home_airport_lat` | Geographical north-south position of home airport | numeric     |
 | `home_airport_lon` | Geographical east-west position of home airport   | numeric     |
-| `sign_up_date`     | Date of TravelTide account creation               | date        |
+| `sign_up_date`     | Date of Horizon account creation                  | date        |
 
 # 📂 Table: sessions
 
