@@ -7,7 +7,7 @@ This document provides a comprehensive overview of the customer segmentation pro
 
 ### 📌 Project Root
 ```
-Project Horizon/
+Horizon/
 ├── README.md                             ← Project overview and goals
 ```
 
