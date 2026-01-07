@@ -120,7 +120,7 @@ Elena T., Head of Marketing, leads the development of a personalized rewards pro
 
 ## 📕 Project Timeline
 
-### 📌 Development Phases {09.06.2025 - 11.07.2025 | 33 Tage}
+### 📌 Development Phases {09.06.2025 - 11.07.2025 | 33 Days}
 
 **Week 1 - EDA - Exploring the Data:**
 - Familiarize with business context and available data
